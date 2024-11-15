@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "treatment": "Dental Implant",
+    "image": "https://i.ibb.co/LQWqs6c/dental-implant.jpg",
+    "description": "Osseointegration,a biologic process in which materials like titanium or zirconia develop an intimate relationship with bone,is the foundation for contemporary dental implants.The implant fixture is inserted first to ensure that it will osseointegrate,and then a dental prosthesis is placed on top of it.Before a dental prosthetic (a tooth,bridge,or denture) is linked to the implant or an abutment that will support a dental prosthesis/crown is implanted,osseointegration requires a varied period of time.",
+    "cost": 700
+  },
+  {
+    "id": 2,
+    "treatment": "Cracked Tooth",
+    "image": "https://i.ibb.co/p4Kz3WM/Cracked-teeth.jpg",
+    "description": "When a crack occurs in your tooth,it is referred to as a fractured tooth or cracked tooth syndrome (CTS).The fracture might be minor and innocuous at times.It might also cause your teeth to crack or fracture.Although tooth fractures are more prevalent in youngsters and the elderly,anybody can shatter a tooth.",
+    "cost": 300
+  },
+  {
+    "id": 3,
+    "treatment": "Wishdom Teeth",
+    "image": "https://i.ibb.co/h7VbSk5/wishdom-teeth.jpg",
+    "description": "A third pair of molars at the rear of your mouth is known as wisdom teeth.They normally appear between the ages of 17 and 25,and X-rays reveal them.For one of these reasons,the majority of individuals get them removed.Wisdom teeth may not come in regularly since they are so far back in your mouth,thus they are impacted.They might become stuck in your jawbone or gums,causing discomfort.They approach from the incorrect direction.They may make contact with your other teeth.",
+    "cost": 100
+  },
+  {
+    "id": 4,
+    "treatment": "Teeth Whitening",
+    "image": "https://i.ibb.co/ngQXCgm/teeth-whitening.jpg",
+    "description": "There are a variety of ways to whiten your teeth,including utilizing whitening toothpaste,mouthwash,and other low-cost treatments to eliminate surface stains.However,getting it done by specialists is the greatest option for long-term outcomes.Tooth whitening can be a highly efficient means of lightening the natural color of your teeth without removing any of the tooth's surface.While it won't completely change the color,it will lighten the current tone.",
+    "cost": 40
+  },
+  {
+    "id": 5,
+    "treatment": "Veneers",
+    "image": "https://i.ibb.co/ZzRZN3s/Veneers.jpg",
+    "description": "Dental veneers are thin,tooth-colored shells that cover the front surfaces of teeth to improve their look.They're usually composed of porcelain or resin-composite materials and are glued to your teeth permanently.Veneers can be used to correct a variety of aesthetic issues,including chipped,cracked,discolored,or undersized teeth.When a tooth is cracked or chipped,some people only need one veneer,but most people need six to eight veneers to achieve an equal,symmetrical smile.Veneers are most typically used on the upper front eight teeth.",
+    "cost": 500
+  },
+  {
+    "id": 6,
+    "treatment": "Orthodontic Treatment",
+    "image": "https://i.ibb.co/vzGy8h7/Orthodontic-treatment.jpg",
+    "description": "Many people have teeth that are crowded or crooked.The teeth will be straightened or moved into a better place with orthodontic therapy.This can help to enhance the look of the teeth and the way they bite together,as well as make them simpler to clean.Some people have protruding top front teeth that are ugly.These 'prominent' teeth are more vulnerable to damage,although orthodontic treatment can help to straighten them out.Alternatively,the way the upper and lower jaws connect can contribute to unattractive teeth and an improper bite.Orthodontic therapy may be able to help with both of these issues.",
+    "cost": 1200
+  },
+  {
+    "id": 7,
+    "treatment": "Dental CT Scan",
+    "image": "https://i.ibb.co/PTmsZQy/Dental-CT-Scan.jpg",
+    "description": "The position of the bone structures around your face, nasal cavity, and sinuses may be correctly plotted by your dentist. This enables them to assess any current illness as well as arrange surgical therapies. Because a dental Cone Beam scanner lacks the same level of resolution as an outpatient CT scan, it cannot be utilized to assess soft tissue structures such as muscles, lymph nodes, nerves, or glands.",
+    "cost": 200
+  },
+  {
+    "id": 8,
+    "treatment": "Complete denture",
+    "image": "https://i.ibb.co/YB8sYHH/Complete-denture.jpg",
+    "description": "The high frequency of tooth decay, along with the progressive ageing of populations in industrialized countries, has resulted in a constant rise in the need for total denture treatment. It is important to examine a variety of concerns during the denture procedure in order to obtain appropriate treatment. The patient's motivation for denture therapy and emotional attitude toward dentures must be assessed before treatment begins.",
+    "cost": 1600
+  }
+]
